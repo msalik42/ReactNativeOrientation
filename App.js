@@ -16,7 +16,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import Orientation from 'react-native-orientation';
+import Orientation from 'react-native-orientation-locker';
 
 class App extends Component {
   componentDidMount(){
